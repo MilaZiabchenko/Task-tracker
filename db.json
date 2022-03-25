@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Sleep well",
+      "time": "every night",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Keep going",
+      "time": "every day",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "Take care of myself & Leo",
+      "time": "always",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "Become a professional software engineer & find an interesting project",
+      "time": "asap",
+      "reminder": false,
+      "id": 11
+    }
+  ]
+}
